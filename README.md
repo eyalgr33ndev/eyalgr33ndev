@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=035afc&size=40&lines=Hey!+I'm+EyalGreen" alt="Typing SVG">
   </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=73a0f5&size=35&lines=Back-end+developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=73a0f5&size=30&lines=Back-end+developer" alt="Typing SVG">
   </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=a0aabd&size=35&lines=Robotics+technician" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=a0aabd&size=30&lines=Robotics+technician" alt="Typing SVG">
   </a>
 </div>
 
