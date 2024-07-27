@@ -5,13 +5,17 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&pause=1000&color=4484FF&background=47474700&center=true&multiline=true&width=435&lines=Hey!+I'm+EyalGreen" alt="Typing SVG">
   </a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=0077FF&background=47474700&center=true&multiline=true&width=435&lines=Back-end+Developer" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=0077FF&background=47474700&center=true&multiline=true&width=435&lines=Back-end+Developer" alt="Typing SVG">
   </a>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=5EA5FF&background=47474700&center=true&multiline=true&width=435&lines=+Robotics+technician" alt="Typing SVG">
   </a>
-</div>
+  </div>
 
 <div align="center">
   <h2>Operating Systems</h2>
