@@ -14,7 +14,7 @@
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=5EA5FF&background=47474700&center=true&multiline=true&width=435&lines=+Robotics+technician" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=35&pause=1000&color=00c5ff&background=47474700&center=true&multiline=true&width=435&lines=+Robotics+technician" alt="Typing SVG">
     </a>
   </div>
 </div>
