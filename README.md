@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/TypeScript-50%25-red" alt="TypeScript Progress">
   <img src="https://img.shields.io/badge/ExpressJS-50%25-red" alt="ExpressJS Progress">
   <img src="https://img.shields.io/badge/ReactJS-40%25-red" alt="ReactJS Progress">
+  <img src="https://img.shields.io/badge/HTML-90%25-red" alt="HTML Progress">
+  <img src="https://img.shields.io/badge/CSS-70%25-red" alt="CSS Progress">
   <img src="https://img.shields.io/badge/MongoDB-50%25-red" alt="MongoDB Progress">
   <img src="https://img.shields.io/badge/SQLite-50%25-red" alt="SQLite Progress">
   <img src="https://img.shields.io/badge/MySQL-50%25-red" alt="MySQL Progress">
