@@ -35,7 +35,9 @@
   <img src="https://img.shields.io/badge/Java-10%25-red" alt="Java Progress">
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyalgr33ndev&color=FF0000" alt="Profile Views">
+</p>
 [![eyalgr33ndev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eyalgr33ndev&theme=tokyo-night&color=FF0000&line=FF0000&point=FF0000)](https://github.com/eyalgr33ndev/github-readme-activity-graph)
 ---
 
